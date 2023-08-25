@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
   background:#232323;
-=======
-  background-color: #232323;
->>>>>>> 970b1147808b697d2c516b6b09979a3d4d0fa38b
   color: #fff;
 }
 
@@ -82,6 +78,6 @@ body {
   flex: 1;
 }
 
-#canvas {
+#shivam_canva {
   background: #232323;
 }
