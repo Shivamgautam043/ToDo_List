@@ -287,4 +287,8 @@ function tick() {
   requestAnimationFrame(tick);
 }
 
+<<<<<<< HEAD
 tick();
+=======
+tick();
+>>>>>>> 970b1147808b697d2c516b6b09979a3d4d0fa38b
