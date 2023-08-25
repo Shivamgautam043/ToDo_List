@@ -1,5 +1,5 @@
 body {
-  background-color: #333;
+  background:#232323;
   color: #fff;
 }
 
@@ -76,4 +76,8 @@ body {
 
 .taskText {
   flex: 1;
+}
+
+#canvas {
+  background: #232323;
 }
